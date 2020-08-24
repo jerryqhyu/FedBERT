@@ -1,11 +1,12 @@
-# FinBERT: Pre-Trained on SEC Filings for Financial NLP Tasks
-  Vinicio DeSola, Kevin Hanna, Pri Nonis
+# FedBERT: Pre-Trained on SEC Filings for Financial NLP Tasks
+Camilla Hao Guo, Vincent Lamine, Silvi Pandey, Jose Regalado, Jerry Qinghui Yu
 
 ## MODEL WEIGHTS
-- https://drive.google.com/drive/folders/1rcRXZhb3JLY3A_kIO8gMk8jacRyR-Ik6?usp=sharing
+INCOMING
+- FinBERT - https://drive.google.com/drive/folders/1rcRXZhb3JLY3A_kIO8gMk8jacRyR-Ik6?usp=sharing
 
 ## PUBLICATION
-- https://www.researchgate.net/publication/334974348_FinBERT_pre-trained_model_on_SEC_filings_for_financial_natural_language_tasks
+INCOMING
 
 ## MOTIVATIONS
 
@@ -31,5 +32,4 @@
 - *`Combo`* `Pre-trained continued from original BERT on 2017, 2018, 2019 SEC 10K dataset`
 
 ## ANALYSIS
-
-![](figs/analysis-001.jpg)
+INCOMING
